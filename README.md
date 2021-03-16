@@ -34,12 +34,6 @@ Whenever he wants, a player can _buy_ a tree.
 
 The project is configured to use  [Prettier](https://prettier.io) & [ESLint](https://eslint.org).
 
-## Visual
-
-![Index](/readme/leaf_Index.png)
-![Sign](/readme/leaf_SignIn.png)
-![Game](/readme/leaf_Game.png)
-
 ## Contributors
 
 - **Alan MASSARO** [GitHub](https://github.com/macmowl)
